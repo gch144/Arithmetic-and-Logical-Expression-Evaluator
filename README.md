@@ -1,3 +1,5 @@
+#Program constructing syntax tree and evaluating expressions with arithmetic and logical operators, with (). Ensure the priority of operators is considered (e.g.* has precedence over +). Show the syntax tree and evaluate the value of the expression.
+
 ### Files
 - `main.py`: This script allows the user to enter an expression and evaluates it using the syntax tree.
 - `syntax_tree.py`: This module contains the implementation of the syntax tree and the evaluation logic.
